@@ -1,0 +1,1 @@
+This trading algorithm was made to try to use Calculus, namely derivatives, of the price functions of equities to try to buy low sell high. To smooth datapoints, the program uses simple moving averages. At this time the bot is highly experimental, use at your own risk.
