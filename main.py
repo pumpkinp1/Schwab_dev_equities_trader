@@ -32,7 +32,7 @@ load_dotenv()
 
 logging.basicConfig(level=logging.INFO)
 
-SYMBOL = "TSLA"
+SYMBOL = "SPY"
 ASSET_TYPE = "EQUITY"
 ORDER_SESSION = "NORMAL"
 ORDER_DURATION = "DAY"
