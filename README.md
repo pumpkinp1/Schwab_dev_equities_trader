@@ -1,4 +1,6 @@
-This trading algorithm was made to try to use Calculus, namely derivatives, of the price functions of equities to try to buy low sell high. To smooth datapoints, the program uses simple moving averages. At this time the bot is highly experimental and does not give reliable returns, test at your own risk.
+Jeremiah here.
+
+This trading algorithm was made to try to use calculus, namely derivatives, of the price functions of equities to try to buy low sell high. To smooth datapoints, the program uses simple moving averages. At this time the bot is highly experimental and does not give reliable returns, test at your own risk.
 
 this program utilizes the schwabdev library by Tyler Bowers. he has created documentation, YouTube tutorials, and more. Check it out:
 
