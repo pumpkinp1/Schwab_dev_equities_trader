@@ -4,7 +4,9 @@ Algorithm classification: MFT (Medium Frequency Trading) default 1 minute interv
 
 Requires a Charles Schwab brokerage account with developer API access and margin access. It utilizes shorting which requires a margin account - this will probably be changed for greater accessibility.
 
-This trading algorithm was made to try to use calculus, namely derivatives, of price functions of equities (stocks) to try to buy low sell high. To smooth datapoints, the program uses simple moving averages. At this time the bot is highly experimental and does not give reliable returns, test at your own risk.
+This trading algorithm was made to try to use calculus, namely derivatives, of price functions of equities (stocks) to try to buy low sell high. To smooth datapoints, the program uses simple moving averages. 
+
+!! - At this time the bot is highly experimental and does not give reliable returns, test at your own risk.
 
 This program utilizes the schwabdev library by Tyler Bowers. he has created documentation, YouTube tutorials, and more. Check it out: https://tylerebowers.github.io/Schwabdev/
 
