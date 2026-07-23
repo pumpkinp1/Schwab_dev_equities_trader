@@ -1,6 +1,4 @@
-# Note: to run, enter "python ./main.py" into terminal or "python C:\Users\jerem\Desktop\MarketManager\main.py"
-# Core architecture and logic designed by Jeremiah Patlan, with use of Schwabdev API
-# Code implementation augmented with AI assistance
+# Core architecture and logic designed by Jeremiah Patlan, with use of Schwabdev API.Code implementation augmented with AI assistance
 
 # 1. IMPORTS & DEPENDENCIES
 import csv
