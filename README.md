@@ -1,4 +1,4 @@
-!! - At this time the bot is highly experimental and does not give reliable returns, test at your own risk.
+!! - At this time the bot is highly experimental and does not give reliable returns, examine and test with caution. You are responsible for your losses.
 
 Jeremiah here.
 
